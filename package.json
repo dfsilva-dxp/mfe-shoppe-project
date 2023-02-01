@@ -1,0 +1,8 @@
+{
+  "name": "Shoppe-Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dfsilva-dxp/mfe-shoppe-project.git",
+  "author": "Daniel Silva <dfsilva.dxp@gmail.com>",
+  "license": "MIT"
+}
